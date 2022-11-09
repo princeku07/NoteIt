@@ -1,4 +1,4 @@
-package com.xperiencelabs.noteit.noteFeatures.presenter.notes
+package com.xperiencelabs.noteit.noteFeatures.ui.notes
 
 import android.annotation.SuppressLint
 import androidx.compose.animation.*
@@ -19,8 +19,8 @@ import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.navigation.NavController
 import com.xperiencelabs.noteit.R
-import com.xperiencelabs.noteit.noteFeatures.presenter.notes.component.FilterSection
-import com.xperiencelabs.noteit.noteFeatures.presenter.notes.component.NoteItem
+import com.xperiencelabs.noteit.noteFeatures.ui.notes.component.FilterSection
+import com.xperiencelabs.noteit.noteFeatures.ui.notes.component.NoteItem
 import kotlinx.coroutines.launch
 
 

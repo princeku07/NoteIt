@@ -1,4 +1,4 @@
-package com.xperiencelabs.noteit.noteFeatures.presenter.notes
+package com.xperiencelabs.noteit.noteFeatures.ui.notes
 
 import com.xperiencelabs.noteit.noteFeatures.domain.model.Note
 import com.xperiencelabs.noteit.noteFeatures.domain.utils.NoteOrder

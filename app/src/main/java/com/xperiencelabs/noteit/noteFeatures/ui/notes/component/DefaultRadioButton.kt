@@ -1,4 +1,4 @@
-package com.xperiencelabs.noteit.noteFeatures.presenter.notes.component
+package com.xperiencelabs.noteit.noteFeatures.ui.notes.component
 
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer

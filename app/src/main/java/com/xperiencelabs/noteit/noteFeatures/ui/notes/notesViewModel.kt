@@ -1,4 +1,4 @@
-package com.xperiencelabs.noteit.noteFeatures.presenter.notes
+package com.xperiencelabs.noteit.noteFeatures.ui.notes
 
 import androidx.compose.runtime.State
 import androidx.compose.runtime.mutableStateOf

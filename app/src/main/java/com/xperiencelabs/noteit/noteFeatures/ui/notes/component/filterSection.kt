@@ -1,6 +1,5 @@
-package com.xperiencelabs.noteit.noteFeatures.presenter.notes.component
+package com.xperiencelabs.noteit.noteFeatures.ui.notes.component
 
-import android.provider.ContactsContract.CommonDataKinds.Note
 import androidx.compose.foundation.layout.*
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
